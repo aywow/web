@@ -30,8 +30,6 @@ a:hover {color:#FF0000;text-decoration:none;}
 #mainbox .top4{background:url(gb_4.jpg);height:60px;}
 #mainbox .top5{background:url(gb_5.jpg);height:60px;}
 #mainbox .top6{background:url(zzz.jpg);height:200px;}
-#mainbox .top7{background:url(1gb_7.html);height:60px;}
-#mainbox .top8{background:url(1gb_8.html);height:90px;}
 #mainbox .top9{background:url(gb_9.jpg);height:80px;}
 #mainbox .top10{background:url(gb_10.jpg);height:368px;}
 #mainbox .p1{background:url(page_t.jpg);height:66px;}
@@ -40,7 +38,6 @@ a:hover {color:#FF0000;text-decoration:none;}
 #mainbox .box2{background:url(box_2.jpg);height:auto!important;}
 #mainbox .box3{background:url(box_3.jpg);height:46px;}
 #mainbox .box4{background:url(box_4.jpg);height:399px;}
-#mainbox .box5{background:url(box_5.jpg);height:auto!important;}
 
 #bottom{margin:0 auto;}
 #bottom .b1{background:url(b1.jpg) no-repeat center;height:158px;margin:0 auto;}
